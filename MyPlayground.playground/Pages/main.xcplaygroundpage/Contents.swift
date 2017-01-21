@@ -14,8 +14,6 @@
 /*: Question 1
 ### 1. Add two Doubles
 */
-// write your code here
-
 
 /*: Question 2
 ### 2. Add an Int to a Double
